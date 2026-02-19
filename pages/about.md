@@ -10,12 +10,11 @@ credits: true
 
 {% include feature/jumbotron.html objectid="/assets/img/jj-ying-WmnsGyaFnCQ-unsplash_opt.jpg" %}
 
-## About CollectionBuilder-Sheets
+## Collection Description
 
-This site is generated using [CollectionBuilder-Sheets](https://github.com/CollectionBuilder/collectionbuilder-sheets), a template  for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills and easy hosting on GitHub Pages.
+Our project revolves around tragic love in Greek mythology. We find this very interesting due to how it has influenced popular culture, and how the themes found in tragic love echo through to today's media. This collection is aimed towards those fascinated with Greek mythology, as well as how common themes in media today have origins in tragedy from long ago periods. Our collection can be used as a starting point for further research into the tragedies we compiled.
+People can also use it as a database to find media showcasing specific art regarding tragic love. Our collection is artwork, mostly made up of paintings and etchings, with a few other mediums scattered throughout. We pulled from many different museums and galleries around the world, including the [National Gallery](https://www.nationalgallery.org.uk/) in England, the [Philadelphia Museum of Art](https://www.philamuseum.org/) in Pennsylvania, and the [Getty Museum](getty.edu) in Los Angeles. 
 
-Using CB-Sheets, it is possible to use a live Google Sheets spreadsheet for your collection metadata, allowing you to see the outcome of metadata edits update immediately.
-This enables active collaboration to prototype collections with minimal set up.
 
 <button class="btn btn-lg btn-success" data-bs-toggle="modal" data-bs-target="#cbSetUpModal">
     <svg class="bi icon-sprite" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16" aria-hidden="true">
