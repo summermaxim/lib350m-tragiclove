@@ -6,7 +6,7 @@ description,Description,
 medium,Medium,true,
 subject,Subjects,true
 location,Location
-source,Source
+source,Source,,true
 identifier,Source Identifier,,
 type,Type,
 rights,Rights,
