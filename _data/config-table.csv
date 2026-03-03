@@ -6,6 +6,7 @@ description,Description
 medium,Medium
 subject,Subjects
 location,Location
+location_created,Location Created
 source,Source
 identifier,Source Identifier
 type,Type
