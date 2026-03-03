@@ -6,6 +6,7 @@ description,Description,
 medium,Medium,true,
 subject,Subjects,true
 location,Location
+location_created,Location Created,true,
 source,Source,,true
 identifier,Source Identifier,,
 type,Type,
