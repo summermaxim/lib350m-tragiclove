@@ -5,7 +5,7 @@ permalink: /dmp.html
 ---
 
 
-# Project Title – Project Subtitle
+# Doomed – Tragic love in Greek mythology
 
 ## Data Management Plan
 
