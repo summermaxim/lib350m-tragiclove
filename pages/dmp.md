@@ -1,18 +1,18 @@
-**Project Title – Project Subtitle**
+# Project Title – Project Subtitle
 
-**Data Management Plan**
+## Data Management Plan
 
-**Project Description**
+### Project Description
 
 Our project is a collection of pieces of art, all depicting tragic couples from Greek mythology. These objects can be dated from the 15th to the 19th century, and are sourced from a variety of museums in the USA and Europe. This project is hosted on GitHub, utilizing the CollectionBuilder Sheets template for GitHub Pages.
 
-**Roles and Responsibilities**
+### Roles and Responsibilities
 
-Group Members: Summer Maxim, Arden Messinger
+#### Group Members: Summer Maxim, Arden Messinger
 
 We have shared responsibilities for this project. We’ve split the duties of finding and uploading objects, writing metadata, and working on the technical side of the website.
 
-**Anticipated Data**
+### Anticipated Data
 
 We have gathered our data from various museums in the USA and Europe. This data consists of images of artwork depicting tragic couples from Greek mythology, and associated information such as the creator and the date and locations of creation.
 
@@ -25,23 +25,23 @@ We have gathered our data from various museums in the USA and Europe. This data 
 
 All of our metadata will be accessible through our public GitHub repository and the “Data” tab on our CollectionBuilder website. In addition, our data dictionary will be available on the data management plan tab of our website.
 
-**Storage and Backup**
+### Storage and Backup
 
 Our images and metadata are stored in multiple places. They are both stored on GitHub, and there are backups on Google Drive and our personal computers. Our repository is stored on GitHub.
 
-**Data Sharing**
+### Data Sharing
 
 Our data is publicly shared on both our GitHub repository and our CollectionBuilder website. People are able to download the source data directly from our repository. We also provide source links for each object, linking to their original museum collection page where we collected our data.
 
-**Period of Data Retention**
+### Period of Data Retention
 
 We plan to keep our backups of our data on Google Drive and our personal computers. We will maintain our CollectionBuilder site for the duration of the term. Afterwards, the site will remain publicly accessible, though we will not actively maintain or update it.
 
-**Licensing and Ethical Issues**
+### Licensing and Ethical Issues
 
 All of the images in our collection are under the public domain, and many of them are also under a Creative Commons license that permits them to be used for our purposes. Each object has a link to its applicable rights statement.
 
-**Appendix: Data Dictionary**
+## Appendix: Data Dictionary
 
 | field | definition | example |
 | :---- | :---- | :---- |
