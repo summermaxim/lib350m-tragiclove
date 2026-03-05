@@ -28,6 +28,8 @@ We have gathered our data from various museums in the USA and Europe. This data 
 | **Image files of artwork of tragic couples in Greek mythology** | **.JPG** | **28.9** | **24** | **Public Domain CC-BY-NC-SA CC0 CC-BY CC-BY-NC-ND**  | **Philadelphia Museum of Art, British Museum, Paris Musées, BALaT KIK-IRPA, Getty Museum, National Galleries of Scotland, The Metropolitan Museum of Art, The National Gallery, Spencer Museum of Art** |
 | **Image files of artwork of tragic couples in Greek mythology** | **.PNG** | **9.21** | **1** | **Public Domain** | **Städel Museum** |
 
+
+
 **Documentation and Metadata**
 
 All of our metadata will be accessible through our public GitHub repository and the “Data” tab on our CollectionBuilder website. In addition, our data dictionary will be available on the data management plan tab of our website.
