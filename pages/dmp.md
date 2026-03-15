@@ -11,7 +11,7 @@ permalink: /dmp.html
 
 ### Project Description
 
-Our project is a collection of pieces of art, all depicting tragic couples from Greek mythology. These objects can be dated from the 15th to the 19th century, and are sourced from a variety of museums in the USA and Europe. This project is hosted on GitHub, utilizing the CollectionBuilder Sheets template for GitHub Pages.
+Our project is a digital collection of pieces of art, all depicting tragic couples from Greek mythology. These objects can be dated from the 15th to the 19th century, and are sourced from a variety of museums in the USA and Europe. This project is hosted on GitHub, utilizing CollectionBuilder, a template for GitHub Pages that allows you to create a collection of images and data.
 
 ### Roles and Responsibilities
 
@@ -21,7 +21,7 @@ We have shared responsibilities for this project. We’ve split the duties of fi
 
 ### Anticipated Data
 
-We have gathered our data from various museums in the USA and Europe. This data consists of images of artwork depicting tragic couples from Greek mythology, and associated information such as the creator and the date and locations of creation.
+We have gathered our data from various museums in the USA and Europe. This data consists of images of artwork depicting tragic couples from Greek mythology, associated information such as the creator and the date and locations of creation, and the code for the project and website.
 
 | Item Description | File Type | Size (in MB) | \# of Items | License(s) | Sources |
 | :---- | :---- | :---- | :---- | :---- | :---- |
@@ -30,23 +30,23 @@ We have gathered our data from various museums in the USA and Europe. This data 
 
 ### Documentation and Metadata
 
-All of our metadata will be accessible through our public GitHub repository and the “Data” tab on our CollectionBuilder website. In addition, our data dictionary will be available on the data management plan tab of our website.
+All of our metadata will be accessible through our public GitHub repository and the “Data” tab on our CollectionBuilder website. In addition, our data dictionary will be available on the data management plan tab of our website, giving definitions for each metadata field.
 
 ### Storage and Backup
 
-Our images and metadata are stored in multiple places. They are both stored on GitHub, and there are backups on Google Drive and our personal computers. Our repository is stored on GitHub.
+Our images and metadata are stored in multiple places. They are both stored on GitHub, there are backups of both on Google Drive, and there are backups of the images on both of our personal computers. Our repository is stored on GitHub.
 
 ### Data Sharing
 
-Our data is publicly shared on both our GitHub repository and our CollectionBuilder website. People are able to download the source data directly from our repository. We also provide source links for each object, linking to their original museum collection page where we collected our data.
+Our data is publicly shared on both our GitHub repository and our CollectionBuilder website. People are able to download the metadata directly from our repository, and the images as well. We also provide source links for each image, linking to their original museum collection page where we collected our metadata.
 
 ### Period of Data Retention
 
-We plan to keep our backups of our data on Google Drive and our personal computers. We will maintain our CollectionBuilder site for the duration of the term. Afterwards, the site will remain publicly accessible, though we will not actively maintain or update it.
+We plan to keep our backups of our data on Google Drive and our personal computers. We will maintain our CollectionBuilder site for the duration of the Winter 2026 term. Afterwards, the site will remain publicly accessible, though we will not actively maintain or update it.
 
 ### Licensing and Ethical Issues
 
-All of the images in our collection are under the public domain, and many of them are also under a Creative Commons license that permits them to be used for our purposes. Each object has a link to its applicable rights statement.
+All of the images in our collection are under the public domain, and many of them are also under a Creative Commons license that permits them to be used for our purposes. Each object has a link to its applicable rights statement. The audience is also able to reuse the images under these licenses, as written in the right statements.
 
 ## Appendix: Data Dictionary
 
@@ -58,7 +58,7 @@ All of the images in our collection are under the public domain, and many of the
 | creator | The name of the artist or printmaker who created the object | Bartolommeo Pinelli |
 | date | The year or time period the object was created | 1827 |
 | description | A brief description of the piece of art | Drawing of Helen and Paris walking towards a Trojan boat on a rocky shore |
-| medium | The art medium of the object | Drawing |
+| medium | The artistic medium of the object | Drawing |
 | subject | The names of the characters depicted in the piece of art | paris;helen |
 | location | The location where the object is currently housed | London, England |
 | location\_created | The location where the object was created, if known | Rome, Italy |
